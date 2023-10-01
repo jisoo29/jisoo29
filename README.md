@@ -28,7 +28,6 @@
 <h2></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jisoo29&theme=omni&show_icons=true&locale=en&layout=compact" alt="jisoo29" />
   <img src="https://github-readme-stats.vercel.app/api?username=jisoo29&theme=omni&show_icons=true" alt="Jisoo's GitHub stats" />
 </p>
 
