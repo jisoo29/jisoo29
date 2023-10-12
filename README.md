@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jisoo29&label=Profile%20views&color=0e75b6&style=flat" alt="jisoo29" /> </p>
 
-- 📝 I regularly write my studies on [lgso1029@naver.com](lgso1029@naver.com)
+- 📝 I regularly write my studies on [lgso1029@naver.com](https://blog.naver.com/lgso1029)
 
 - 📫 How to reach me **lgso2958@gmail.com**
 
